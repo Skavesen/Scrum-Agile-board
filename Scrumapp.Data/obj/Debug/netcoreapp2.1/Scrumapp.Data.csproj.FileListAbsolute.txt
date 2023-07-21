@@ -1,0 +1,22 @@
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.deps.json
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.runtimeconfig.json
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.runtimeconfig.dev.json
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.pdb
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.csprojAssemblyReference.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.AssemblyInfoInputs.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.AssemblyInfo.cs
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.deps.json
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.runtimeconfig.json
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.runtimeconfig.dev.json
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\bin\Debug\netcoreapp2.1\Scrumapp.Data.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.AssemblyInfoInputs.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.AssemblyInfo.cs
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Data\obj\Debug\netcoreapp2.1\Scrumapp.Data.pdb

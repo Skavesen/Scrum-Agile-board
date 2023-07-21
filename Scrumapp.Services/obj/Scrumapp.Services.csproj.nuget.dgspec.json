@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Services\\Scrumapp.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Data\\Scrumapp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Data\\Scrumapp.Data.csproj",
+        "projectName": "Scrumapp.Data",
+        "projectPath": "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Data\\Scrumapp.Data.csproj",
+        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
+        "outputPath": "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.initium.ru/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Services\\Scrumapp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Services\\Scrumapp.Services.csproj",
+        "projectName": "Scrumapp.Services",
+        "projectPath": "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Services\\Scrumapp.Services.csproj",
+        "packagesPath": "C:\\Users\\vadim\\.nuget\\packages\\",
+        "outputPath": "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vadim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.initium.ru/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Data\\Scrumapp.Data.csproj": {
+                "projectPath": "D:\\Универ\\Разделы дипломов\\Балабан\\scrumapp-master\\Scrumapp.Data\\Scrumapp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

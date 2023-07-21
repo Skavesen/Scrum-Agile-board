@@ -1,0 +1,4 @@
+You can set UseInMemoryDatabase=true in appsettings.json file to not need any database instance.
+Or you can set UseInMemoryDatabase=false in appsettings.json file in order to use MSSQL instance.
+PM (Package Manager Console) > update-database
+Extending Identity User, Role and UserRoles

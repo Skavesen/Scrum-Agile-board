@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Управление проектами с помощью Scrum";
+}
+
+<div class="container">
+    <div class="page-header clearfix text-center">
+        <h2>@ViewData["Title"]</h2>
+    </div>
+    <div class="row">
+        <div class="card-deck">
+            <div class="card">
+                <img class="card-img-top" src="/images/home/adminpanel.jpg" alt="Панель администрирования">
+                <div class="card-body">
+                    <h5 class="card-title">Панель администрирования</h5>
+                    <p class="card-text">Просматривайте проекты, пользователей и роли и управляйте ими.</p>
+                </div>
+                <div class="card-footer">
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-primary">
+                        Войдите в панель администрирования <i class="fas fa-chevron-right"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <img class="card-img-top" src="/images/home/scrumboard.png" alt="Scrum доска">
+                <div class="card-body">
+                    <h5 class="card-title">Скрам доска</h5>
+                    <p class="card-text">Просматривайте принадлежащие вам проекты и присоединяйтесь к ним.</p>
+                </div>
+                <div class="card-footer">
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-primary">
+                        Войдите в Scrum доску <i class="fas fa-chevron-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

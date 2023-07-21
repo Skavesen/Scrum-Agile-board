@@ -1,0 +1,24 @@
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Services.deps.json
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Services.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Services.pdb
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Data.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Data.pdb
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.csprojAssemblyReference.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.AssemblyInfoInputs.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.AssemblyInfo.cs
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.csproj.CopyComplete
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Services.deps.json
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Services.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Services.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Data.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\bin\Debug\netcoreapp2.1\Scrumapp.Data.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.AssemblyInfoInputs.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.AssemblyInfo.cs
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.Services\obj\Debug\netcoreapp2.1\Scrumapp.Services.pdb

@@ -1,0 +1,44 @@
+﻿@model Scrumapp.WebMvcUI.Models.UserViewModels.UserIndexViewModel
+@{
+    ViewData["Title"] = "Пользователи";
+}
+<div class="container">
+    <h2>@ViewData["Title"]</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <section>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th class="text-center" style="width: 80px;">Аватар</th>
+                            <th>Имя</th>
+                            <th>Фамилия</th>
+                            <th>Логин</th>
+                            <th>Email</th>
+                            <th class="text-center" style="width: 80px;">Действие</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var user in Model.Users)
+                        {
+                            <tr>
+                                <td class="text-center">
+                                    <img src="@user.ImageUrl" alt="Аватар" class="img-circle user-image" />
+                                </td>
+                                <td>@user.FirstName</td>
+                                <td>@user.LastName</td>
+                                <td>@user.Username</td>
+                                <td>@user.Email</td>
+                                <td class="text-center">
+                                    <a asp-controller="User" asp-action="Edit" asp-route-id="@user.Id" class="btn btn-warning">Изменить</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <a asp-controller="User" asp-action="Create" class="btn btn-success">Добавить пользователя</a>
+            </section>
+        </div>
+    </div>
+</div>
+

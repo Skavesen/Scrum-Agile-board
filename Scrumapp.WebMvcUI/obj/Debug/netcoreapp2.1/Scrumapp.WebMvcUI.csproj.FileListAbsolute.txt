@@ -1,0 +1,32 @@
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.deps.json
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.runtimeconfig.json
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.runtimeconfig.dev.json
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.pdb
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Data.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Services.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Data.pdb
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Services.pdb
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.csprojAssemblyReference.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.AssemblyInfoInputs.cache
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.AssemblyInfo.cs
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.csproj.CopyComplete
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.dll
+C:\Users\vadim\Downloads\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.deps.json
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.runtimeconfig.json
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.runtimeconfig.dev.json
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Data.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Services.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Data.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\bin\Debug\netcoreapp2.1\Scrumapp.Services.pdb
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.csprojAssemblyReference.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.csproj.CoreCompileInputs.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.AssemblyInfoInputs.cache
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.AssemblyInfo.cs
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.csproj.CopyComplete
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.dll
+D:\Универ\Разделы дипломов\Балабан\scrumapp-master\Scrumapp.WebMvcUI\obj\Debug\netcoreapp2.1\Scrumapp.WebMvcUI.pdb
